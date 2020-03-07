@@ -53,11 +53,6 @@ Source: Oregon Health Authority
 Website: https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx  
 Updates at: N/A  
 
-### Rhode Island
-Source: Rhode Island Department of Health  
-Website: https://health.ri.gov/diseases/respiratory/?parm=163  
-Updates at: N/A  
-
 ### Tennessee
 Source: Tennessee Department of Health   
 Website: https://www.tn.gov/health/cedep/ncov.html  
@@ -119,6 +114,10 @@ Updates at: N/A
 ### Ohio
 ### Oklahoma
 ### Pennsylvania
+### Rhode Island
+Source: Rhode Island Department of Health  
+Website: https://health.ri.gov/diseases/respiratory/?parm=163  
+Updates at: N/A  
 ### South Carolina
 ### South Dakota
 ### Utah
