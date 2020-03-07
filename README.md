@@ -43,39 +43,14 @@ Source: Massachusetts Department of Public Health
 Website: https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring  
 Updates at: Daily by 12PM EST  
 
-### Nevada
-Source: Nevada Department of Health and Human Services  
-Website: http://dpbh.nv.gov/Programs/OPHIE/dta/Hot_Topics/Coronavirus/  
-Updates at: Weekly  
-
-### New Hampshire
-Source: New Hampshire Department of Health and Human Services  
-Website: https://www.dhhs.nh.gov/dphs/cdcs/2019-ncov.htm  
-Updates at: N/A  
-
-### New Jersey
-Source: New Jersey Department of Health  
-Website: https://www.nj.gov/health/cd/topics/ncov.shtml  
-Updates at: N/A  
-
 ### New York
 Source: New York Department of Health  
 Website: https://www.health.ny.gov/diseases/communicable/coronavirus/  
 Updates at: N/A  
 
-### North Carolina
-Source: North Carolina Department of Health and Human Services  
-Website: https://www.ncdhhs.gov/covid-19-case-count-north-carolina  
-Updates at: N/A  
-
 ### Oregon
 Source: Oregon Health Authority  
 Website: https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx  
-Updates at: N/A  
-
-### Rhode Island
-Source: Rhode Island Department of Health  
-Website: https://health.ri.gov/diseases/respiratory/?parm=163  
 Updates at: N/A  
 
 ### Tennessee
@@ -116,13 +91,33 @@ Updates at: weekdays by 2PM CST
 ### Minnesota
 ### Mississippi
 ### Missouri
-### Montana
+### Montana 
 ### Nebraska
+### Nevada
+Source: Nevada Department of Health and Human Services  
+Website: http://dpbh.nv.gov/Programs/OPHIE/dta/Hot_Topics/Coronavirus/  
+Updates at: Weekly  
+### New Hampshire
+Source: New Hampshire Department of Health and Human Services  
+Website: https://www.dhhs.nh.gov/dphs/cdcs/2019-ncov.htm  
+Updates at: N/A  
+### New Jersey
+Source: New Jersey Department of Health  
+Website: https://www.nj.gov/health/cd/topics/ncov.shtml  
+Updates at: N/A  
 ### New Mexico
+### North Carolina
+Source: North Carolina Department of Health and Human Services  
+Website: https://www.ncdhhs.gov/covid-19-case-count-north-carolina  
+Updates at: N/A  
 ### North Dakota
 ### Ohio
 ### Oklahoma
 ### Pennsylvania
+### Rhode Island
+Source: Rhode Island Department of Health  
+Website: https://health.ri.gov/diseases/respiratory/?parm=163  
+Updates at: N/A  
 ### South Carolina
 ### South Dakota
 ### Utah
