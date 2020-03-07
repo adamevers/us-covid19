@@ -43,11 +43,6 @@ Source: Massachusetts Department of Public Health
 Website: https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring  
 Updates at: Daily by 12PM EST  
 
-### Nevada
-Source: Nevada Department of Health and Human Services  
-Website: http://dpbh.nv.gov/Programs/OPHIE/dta/Hot_Topics/Coronavirus/  
-Updates at: Weekly  
-
 ### New Hampshire
 Source: New Hampshire Department of Health and Human Services  
 Website: https://www.dhhs.nh.gov/dphs/cdcs/2019-ncov.htm  
@@ -116,8 +111,12 @@ Updates at: weekdays by 2PM CST
 ### Minnesota
 ### Mississippi
 ### Missouri
-### Montana
+### Montana 
 ### Nebraska
+### Nevada
+Source: Nevada Department of Health and Human Services  
+Website: http://dpbh.nv.gov/Programs/OPHIE/dta/Hot_Topics/Coronavirus/  
+Updates at: Weekly  
 ### New Mexico
 ### North Dakota
 ### Ohio
