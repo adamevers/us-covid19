@@ -116,6 +116,10 @@ Source: New Jersey Department of Health
 Website: https://www.nj.gov/health/cd/topics/ncov.shtml  
 Updates at: N/A  
 ### New Mexico
+### North Carolina
+Source: North Carolina Department of Health and Human Services  
+Website: https://www.ncdhhs.gov/covid-19-case-count-north-carolina  
+Updates at: N/A  
 ### North Dakota
 ### Ohio
 ### Oklahoma
