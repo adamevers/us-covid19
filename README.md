@@ -1,7 +1,7 @@
 # COVID-19 US Data Repository
 
-# States
-States with at least 1 confirmed cases  
+# States (14)
+States with at least 1 confirmed case  
 
 ### Arizona
 Source: Arizona Department of Health Services  
@@ -73,7 +73,7 @@ Source: Wisconsin Department of Health Services
 Website: https://www.dhs.wisconsin.gov/outbreaks/index.htm  
 Updates at: weekdays by 2PM CST  
 
-## States without confirmed cases
+## States without a confirmed cases (36)
 ### Alabama
 ### Alaska
 ### Arkansas
