@@ -43,11 +43,6 @@ Source: Massachusetts Department of Public Health
 Website: https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring  
 Updates at: Daily by 12PM EST  
 
-### New Jersey
-Source: New Jersey Department of Health  
-Website: https://www.nj.gov/health/cd/topics/ncov.shtml  
-Updates at: N/A  
-
 ### New York
 Source: New York Department of Health  
 Website: https://www.health.ny.gov/diseases/communicable/coronavirus/  
@@ -115,6 +110,10 @@ Updates at: Weekly
 ### New Hampshire
 Source: New Hampshire Department of Health and Human Services  
 Website: https://www.dhhs.nh.gov/dphs/cdcs/2019-ncov.htm  
+Updates at: N/A  
+### New Jersey
+Source: New Jersey Department of Health  
+Website: https://www.nj.gov/health/cd/topics/ncov.shtml  
 Updates at: N/A  
 ### New Mexico
 ### North Dakota
