@@ -9,7 +9,7 @@ Updates at: N/A
 
 ### California
 Source: California Department of Public Health  
-Website: https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-013.aspx
+Website: https://www.cdph.ca.gov/Programs/OPA/Pages/NR20-013.aspx  
 Updates at: N/A  
 
 ### Colorado
