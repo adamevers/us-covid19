@@ -48,11 +48,6 @@ Source: New York Department of Health
 Website: https://www.health.ny.gov/diseases/communicable/coronavirus/  
 Updates at: N/A  
 
-### North Carolina
-Source: North Carolina Department of Health and Human Services  
-Website: https://www.ncdhhs.gov/covid-19-case-count-north-carolina  
-Updates at: N/A  
-
 ### Oregon
 Source: Oregon Health Authority  
 Website: https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx  
