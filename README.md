@@ -1,7 +1,6 @@
 # COVID-19 US Data Repository
 
-# States (14)
-States with at least 1 confirmed case  
+## States with at least 1 confirmed case (14)
 
 ### Arizona
 Source: Arizona Department of Health Services  
