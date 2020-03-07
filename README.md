@@ -1,7 +1,7 @@
 # COVID-19 US Data Repository
 
-# State Sources
-## States with at least 1 confirmed cases
+# States
+States with at least 1 confirmed cases  
 
 ### Arizona
 Source: Arizona Department of Health Services  
@@ -99,35 +99,35 @@ Website: https://www.dhs.wisconsin.gov/outbreaks/index.htm
 Updates at: weekdays by 2PM CST  
 
 ## States without confirmed cases
-## Alabama
-## Alaska
-## Arkansas
-## Connecticut
-## Delaware
-## Hawaii
-## Idaho
-## Indiana
-## Iowa
-## Kansas
-## Kentucky
-## Louisiana
-## Maine
-## Michigan
-## Minnesota
-## Mississippi
-## Missouri
-## Montana
-## Nebraska
-## New Mexico
-## North Dakota
-## Ohio
-## Oklahoma
-## Pennsylvania
-## South Carolina
-## South Dakota
-## Utah
-## Vermont
-## Virginia
-## West Virginia
-## Wyoming
+### Alabama
+### Alaska
+### Arkansas
+### Connecticut
+### Delaware
+### Hawaii
+### Idaho
+### Indiana
+### Iowa
+### Kansas
+### Kentucky
+### Louisiana
+### Maine
+### Michigan
+### Minnesota
+### Mississippi
+### Missouri
+### Montana
+### Nebraska
+### New Mexico
+### North Dakota
+### Ohio
+### Oklahoma
+### Pennsylvania
+### South Carolina
+### South Dakota
+### Utah
+### Vermont
+### Virginia
+### West Virginia
+### Wyoming
 
