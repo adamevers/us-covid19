@@ -216,6 +216,12 @@ Updates at: Weekdays by 1PM EST
 Source: Virginia Department of Health  
 Website: [http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)  
 Updates at: Weekdays by 11AM EST  
+
+### Washington, D.C.
+Source: DC Health  
+Website: https://coronavirus.dc.gov/page/coronavirus-surveillance-data  
+Updates at: Everyday at 12PM EST  
+
 ### West Virginia
 Source: West Virginia Department of Health and Human Resources  
 Website: [https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx](https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx)  

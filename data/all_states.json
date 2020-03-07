@@ -398,5 +398,13 @@
       "total_cases" : 0,
       "total_deaths" : 0
     }
+  ],
+  "Washington D.C." : [
+    {
+      "updated_at" : "2020-03-07T00:55:39+0000",
+      "source_updated_at" : "2020-03-06T12:00:00-0500",
+      "total_cases" : 0,
+      "total_deaths" : 0
+    }
   ]
 }
