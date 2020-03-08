@@ -15,8 +15,8 @@ Updates at: N/A
 
 ### Colorado
 Source: Colorado Department of Public Health & Environment  
-Website: https://www.colorado.gov/pacific/cdphe/2019-novel-coronavirus  
-Updates at: Monday - Friday only  
+Website: https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub  
+Updates at: Updated twice daily 
 
 ### Florida
 Source: Florida Department of Health  
@@ -27,11 +27,6 @@ Updates at: N/A
 Source: Georgia Department of Public Health  
 Website: https://dph.georgia.gov/novelcoronavirus  
 Updates at: N/A    
-
-### Hawaii
-Source: Hawaii State Department of Health  
-Website: [https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/#situation](https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/#situation)  
-Updates at: N/A  
 
 ### Illinois
 Source: Illinois Department of Public Health  
@@ -51,7 +46,7 @@ Updates at: N/A
 ### Massachusetts
 Source: Massachusetts Department of Public Health  
 Website: https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring  
-Updates at: Daily by 12PM EST  
+Updates at: Daily by 4PM EST  
 
 ### Minnesota
 Source: Minnesota Department of Health  
@@ -76,6 +71,11 @@ Updates at: N/A
 ### Oregon
 Source: Oregon Health Authority  
 Website: https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx  
+Updates at: N/A  
+
+### Rhode Island
+Source: Rhode Island Department of Health  
+Website: https://health.ri.gov/diseases/respiratory/?parm=163  
 Updates at: N/A  
 
 ### Tennessee
@@ -120,6 +120,10 @@ Updates at: N/A
 Source: Delaware Health and Social Services  
 Website: [https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html](https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html)  
 Updates at: N/A   
+### Hawaii
+Source: Hawaii State Department of Health  
+Website: [https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/#situation](https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/#situation)  
+Updates at: N/A  
 ### Idaho
 Source: Idaho Department of Health and Welfare  
 Website: [https://coronavirus.idaho.gov/](https://coronavirus.idaho.gov/)  
@@ -192,10 +196,6 @@ Updates at: Weekdays at 2PM EST
 Source: Pennsylvania Department of Health  
 Website: [https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx](https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx)  
 Updates at: N/A  
-### Rhode Island
-Source: Rhode Island Department of Health  
-Website: https://health.ri.gov/diseases/respiratory/?parm=163  
-Updates at: N/A  
 ### South Carolina
 Source: South Carolina Department of Health  
 Website: [https://www.scdhec.gov/health/infectious-diseases/viruses/coronavirus-disease-2019-covid-19](https://www.scdhec.gov/health/infectious-diseases/viruses/coronavirus-disease-2019-covid-19)  
@@ -217,10 +217,6 @@ Source: Virginia Department of Health
 Website: [http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/)  
 Updates at: Weekdays by 11AM EST  
 
-### Washington, D.C.
-Source: DC Health  
-Website: https://coronavirus.dc.gov/page/coronavirus-surveillance-data  
-Updates at: Everyday at 12PM EST  
 
 ### West Virginia
 Source: West Virginia Department of Health and Human Resources  
@@ -230,6 +226,11 @@ Updates at: N/A
 Source: Wyoming Department of Health  
 Website: [https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)  
 Updates at: N/A  
+
+### Washington, D.C.
+Source: DC Health  
+Website: https://coronavirus.dc.gov/page/coronavirus-surveillance-data  
+Updates at: Everyday at 12PM EST  
 
 
 # License

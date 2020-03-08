@@ -1,31 +1,31 @@
 { 
   "Alabama" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-06T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
     }
     ],
   "Alaska" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T12:30:00-0900",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T12:30:00-0900",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Arizona" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T09:00:43-0700",
-      "total_cases" : 1,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:01:05-0700",
+      "total_cases" : 2,
       "total_deaths" : 0
     }
   ],
   "Arkansas" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -33,7 +33,7 @@
   ],
   "California" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-07T00:55:39+0000",
       "total_cases" : 69,
       "total_deaths" : 1
@@ -41,23 +41,23 @@
   ],
   "Colorado" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-05T09:00:00-0700",
-      "total_cases" : 2,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T10:30:00-0700",
+      "total_cases" : 8,
       "total_deaths" : 0
     }
   ],
   "Connecticut" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Delaware" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T14:10:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -65,15 +65,15 @@
   ],
   "Florida" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T21:57:00-0500",
-      "total_cases" : 12,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T15:15:00-0500",
+      "total_cases" : 14,
       "total_deaths" : 2
     }
   ],
   "Georgia" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-02T09:00:00-0500",
       "total_cases" : 2,
       "total_deaths" : 0
@@ -81,7 +81,7 @@
   ],
   "Hawaii" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-1000",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -89,7 +89,7 @@
   ],
   "Idaho" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0700",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -97,15 +97,15 @@
   ],
   "Illinois" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-04T09:00:00-0600",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0600",
       "total_cases" : 4,
       "total_deaths" : 0
     }
   ],
   "Indiana" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -113,7 +113,7 @@
   ],
   "Iowa" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -121,7 +121,7 @@
   ],
   "Kansas" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T16:30:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -129,15 +129,15 @@
   ],
   "Kentucky" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T17:05:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T16:30:00-0500",
       "total_cases" : 1,
       "total_deaths" : 0
     }
   ],
   "Louisiana" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -145,7 +145,7 @@
   ],
   "Maine" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -153,31 +153,31 @@
   ],
   "Maryland" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T09:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0500",
       "total_cases" : 3,
       "total_deaths" : 0
     }
   ],
   "Massachusetts" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T12:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T16:00:00-0500",
       "total_cases" : 1,
       "total_deaths" : 0
     }
   ],
   "Michigan" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T09:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Minnesota" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T15:00:00-0600",
       "total_cases" : 1,
       "total_deaths" : 0
@@ -185,7 +185,7 @@
   ],
   "Mississippi" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-03T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -193,7 +193,7 @@
   ],
   "Missouri" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -201,7 +201,7 @@
   ],
   "Montana" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T17:00:00-0700",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -209,23 +209,23 @@
   ],
   "Nebraska" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T17:00:00-0700",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0700",
       "total_cases" : 1,
       "total_deaths" : 0
     }
   ],
   "Nevada" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-03T05:40:00-0800",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-03T17:40:00-0800",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "New Hampshire" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -233,7 +233,7 @@
   ],
   "New Jersey" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T19:13:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -241,7 +241,7 @@
   ],
   "New Mexico" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T17:00:00-0700",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -249,15 +249,15 @@
   ],
   "New York" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T03:00:00-0500",
-      "total_cases" : 33,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T14:00:00-0500",
+      "total_cases" : 76,
       "total_deaths" : 0
     }
   ],
   "North Carolina" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T03:10:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -265,7 +265,7 @@
   ],
   "North Dakota" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -273,55 +273,55 @@
   ],
   "Ohio" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T14:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T14:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Oklahoma" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T09:00:00-0600",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0600",
       "total_cases" : 1,
       "total_deaths" : 0
     }
   ],
   "Oregon" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T09:30:00-0800",
-      "total_cases" : 3,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T10:00:00-0800",
+      "total_cases" : 7,
       "total_deaths" : 0
     }
   ],
   "Pennsylvania" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T18:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T18:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Rhode Island" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-01T09:00:00-0500",
-      "total_cases" : 0,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-06T09:00:00-0500",
+      "total_cases" : 3,
       "total_deaths" : 0
     }
   ],
   "South Carolina" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T18:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-06T20:06:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "South Dakota" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T17:00:00-0600",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -329,7 +329,7 @@
   ],
   "Tennessee" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "020-03-06T09:00:00-0600",
       "total_cases" : 1,
       "total_deaths" : 0
@@ -337,15 +337,15 @@
   ],
   "Texas" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T10:00:00-0600",
-      "total_cases" : 5,
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T10:00:00-0600",
+      "total_cases" : 8,
       "total_deaths" : 0
     }
   ],
   "Utah" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0700",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -353,39 +353,39 @@
   ],
   "Vermont" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T13:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T13:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Virginia" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T11:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T11:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Washington" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T11:00:00-0800",
-      "total_cases" : 79,
-      "total_deaths" : 11
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T11:00:00-0800",
+      "total_cases" : 102,
+      "total_deaths" : 16
     }
   ],
   "West Virginia" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T09:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T09:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
   ],
   "Wisconsin" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T14:00:00-0600",
       "total_cases" : 1,
       "total_deaths" : 0
@@ -393,7 +393,7 @@
   ],
   "Wyoming" : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
+      "updated_at" : "2020-03-07T16:00:00-0800",
       "source_updated_at" : "2020-03-06T09:00:00-0700",
       "total_cases" : 0,
       "total_deaths" : 0
@@ -401,8 +401,8 @@
   ],
   "Washington D.C." : [
     {
-      "updated_at" : "2020-03-07T00:55:39+0000",
-      "source_updated_at" : "2020-03-06T12:00:00-0500",
+      "updated_at" : "2020-03-07T16:00:00-0800",
+      "source_updated_at" : "2020-03-07T18:00:00-0500",
       "total_cases" : 0,
       "total_deaths" : 0
     }
