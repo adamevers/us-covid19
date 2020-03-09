@@ -196,7 +196,7 @@ Updates at: N/A
 
 ### Rhode Island
 Source: Rhode Island Department of Health  
-Website: https://health.ri.gov/data/covid-19/. 
+Website: https://health.ri.gov/data/covid-19/   
 Updates at: N/A  
 
 ### South Carolina
