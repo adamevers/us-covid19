@@ -196,7 +196,7 @@ Updates at: N/A
 
 ### Rhode Island
 Source: Rhode Island Department of Health  
-Website: https://health.ri.gov/data/covid-19/
+Website: https://health.ri.gov/data/covid-19/. 
 Updates at: N/A  
 
 ### South Carolina
@@ -254,11 +254,6 @@ Updates at: weekdays by 2PM CST
 Source: Wyoming Department of Health  
 Website: [https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)  
 Updates at: N/A  
-
-### Wisconsin
-Source: Wisconsin Department of Health Services  
-Website: https://www.dhs.wisconsin.gov/outbreaks/index.htm  
-Updates at: weekdays by 2PM CST  
 
 ### Washington, D.C.
 Source: DC Health  
