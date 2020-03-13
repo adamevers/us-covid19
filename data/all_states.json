@@ -1,359 +1,359 @@
 {
   "Alabama": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Alaska": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 12:30:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 20:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "0",
+    "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "Arizona": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "7",
     "total_cases_confirmed_positive": "2",
     "total_deaths": "0"
   },
   "Arkansas": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "1",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "6",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "California": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 08:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "177",
-    "total_deaths": "3"
+    "total_cases_confirmed_positive": "198",
+    "total_deaths": "4"
   },
   "Colorado": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 15:00:00",
-    "total_cases_presumed_positive": "33",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 17:00:00",
+    "total_cases_presumed_positive": "49",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Connecticut": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 15:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 19:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "3",
+    "total_cases_confirmed_positive": "6",
     "total_deaths": "0"
   },
   "Delaware": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 15:30:00",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "1",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 16:00:00",
+    "total_cases_presumed_positive": "4",
+    "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Washington D.C.": {
-    "updated_at": "2020-03-12 05:02:57",
+    "updated_at": "2020-03-13 08:47:38",
     "source_updated_at": "2020-03-11 17:45:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "10",
     "total_deaths": "0"
   },
   "Florida": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 21:43:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 23:52:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "31",
-    "total_deaths": "2"
-  },
-  "Georgia": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 20:00:00",
-    "total_cases_presumed_positive": "31",
-    "total_cases_confirmed_positive": "0",
+    "total_cases_confirmed_positive": "49",
     "total_deaths": "0"
   },
+  "Georgia": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-13 01:22:00",
+    "total_cases_presumed_positive": "0",
+    "total_cases_confirmed_positive": "42",
+    "total_deaths": "1"
+  },
   "Hawaii": {
-    "updated_at": "2020-03-12 05:02:57",
+    "updated_at": "2020-03-13 08:47:38",
     "source_updated_at": "2020-03-08 09:00:00",
     "total_cases_presumed_positive": "2",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Idaho": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 07:45:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Illinois": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-10 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "25",
+    "total_cases_confirmed_positive": "32",
     "total_deaths": "0"
   },
   "Indiana": {
-    "updated_at": "2020-03-08 21:33:44",
+    "updated_at": "2020-03-13 08:47:38",
     "source_updated_at": "2020-03-11 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "10",
+    "total_cases_confirmed_positive": "12",
     "total_deaths": "0"
   },
   "Iowa": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "14",
+    "total_cases_confirmed_positive": "16",
     "total_deaths": "0"
   },
   "Kansas": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 10:00:00",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "1",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "3",
+    "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Kentucky": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 17:10:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 20:30:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "8",
+    "total_cases_confirmed_positive": "11",
     "total_deaths": "0"
   },
   "Louisiana": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 17:30:00",
-    "total_cases_presumed_positive": "13",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 16:45:00",
+    "total_cases_presumed_positive": "9",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Maine": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 12:00:00",
-    "total_cases_presumed_positive": "0",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 12:00:00",
+    "total_cases_presumed_positive": "1",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "Maryland": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "9",
+    "total_cases_confirmed_positive": "12",
     "total_deaths": "0"
   },
   "Massachusetts": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "89",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 16:00:00",
+    "total_cases_presumed_positive": "102",
     "total_cases_confirmed_positive": "6",
     "total_deaths": "0"
   },
   "Michigan": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "2",
+    "total_cases_confirmed_positive": "12",
     "total_deaths": "0"
   },
   "Minnesota": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "5",
+    "total_cases_confirmed_positive": "9",
     "total_deaths": "0"
   },
   "Mississippi": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "Missouri": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "0",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 16:45:00",
+    "total_cases_presumed_positive": "1",
     "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "Montana": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "0",
-    "total_deaths": "0"
-  },
-  "Nebraska": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "5",
     "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
+  "Nebraska": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "9",
+    "total_cases_confirmed_positive": "11",
+    "total_deaths": "0"
+  },
   "Nevada": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-12 05:02:57",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "0",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 13:00:00",
+    "total_cases_presumed_positive": "4",
+    "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "New Hampshire": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "3",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "4",
     "total_cases_confirmed_positive": "2",
     "total_deaths": "0"
   },
   "New Jersey": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 12:00:00",
-    "total_cases_presumed_positive": "23",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 14:00:00",
+    "total_cases_presumed_positive": "29",
     "total_cases_confirmed_positive": "0",
-    "total_deaths": "0"
+    "total_deaths": "1"
   },
   "New Mexico": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "4",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "6",
     "total_cases_confirmed_positive": "0",
     "total_deaths": "0"
   },
   "New York": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 16:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 16:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "216",
+    "total_cases_confirmed_positive": "325",
     "total_deaths": "0"
   },
   "North Carolina": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "7",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "14",
     "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "North Dakota": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "Ohio": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 14:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 14:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "4",
+    "total_cases_confirmed_positive": "5",
     "total_deaths": "0"
   },
   "Oklahoma": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "1",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "2",
     "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   },
   "Oregon": {
-    "updated_at": "2020-03-08 21:33:44",
+    "updated_at": "2020-03-13 08:47:38",
     "source_updated_at": "2020-03-10 10:00:00",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "19",
+    "total_cases_presumed_positive": "2",
+    "total_cases_confirmed_positive": "22",
     "total_deaths": "0"
   },
   "Pennsylvania": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 21:45:00",
-    "total_cases_presumed_positive": "14",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 20:30:00",
+    "total_cases_presumed_positive": "20",
     "total_cases_confirmed_positive": "2",
     "total_deaths": "0"
   },
   "Rhode Island": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "5",
     "total_deaths": "0"
   },
   "South Carolina": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 17:12:00",
-    "total_cases_presumed_positive": "8",
-    "total_cases_confirmed_positive": "2",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 16:05:00",
+    "total_cases_presumed_positive": "6",
+    "total_cases_confirmed_positive": "6",
     "total_deaths": "0"
   },
   "South Dakota": {
-    "updated_at": "2020-03-12 05:02:57",
+    "updated_at": "2020-03-13 08:47:38",
     "source_updated_at": "2020-03-11 09:00:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "8",
     "total_deaths": "0"
   },
   "Tennessee": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 14:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "9",
+    "total_cases_confirmed_positive": "18",
     "total_deaths": "0"
   },
   "Texas": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 10:00:00",
     "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "21",
+    "total_cases_confirmed_positive": "10",
     "total_deaths": "0"
   },
   "Utah": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "2",
-    "total_deaths": "0"
-  },
-  "Vermont": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 13:00:00",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "1",
-    "total_deaths": "0"
-  },
-  "Virginia": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-10 09:00:00",
-    "total_cases_presumed_positive": "9",
-    "total_cases_confirmed_positive": "0",
-    "total_deaths": "0"
-  },
-  "Washington": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 14:25:00",
-    "total_cases_presumed_positive": "0",
-    "total_cases_confirmed_positive": "366",
-    "total_deaths": "29"
-  },
-  "West Virginia": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
-    "total_cases_presumed_positive": "1",
-    "total_cases_confirmed_positive": "0",
-    "total_deaths": "0"
-  },
-  "Wisconsin": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 16:00:00",
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 17:30:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "5",
     "total_deaths": "0"
   },
-  "Wyoming": {
-    "updated_at": "2020-03-12 05:02:57",
-    "source_updated_at": "2020-03-11 09:00:00",
+  "Vermont": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 13:00:00",
+    "total_cases_presumed_positive": "0",
+    "total_cases_confirmed_positive": "2",
+    "total_deaths": "0"
+  },
+  "Virginia": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "0",
+    "total_cases_confirmed_positive": "17",
+    "total_deaths": "0"
+  },
+  "Washington": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 17:00:00",
+    "total_cases_presumed_positive": "0",
+    "total_cases_confirmed_positive": "457",
+    "total_deaths": "31"
+  },
+  "West Virginia": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
     "total_cases_presumed_positive": "0",
     "total_cases_confirmed_positive": "0",
+    "total_deaths": "0"
+  },
+  "Wisconsin": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 14:00:00",
+    "total_cases_presumed_positive": "0",
+    "total_cases_confirmed_positive": "7",
+    "total_deaths": "0"
+  },
+  "Wyoming": {
+    "updated_at": "2020-03-13 08:47:38",
+    "source_updated_at": "2020-03-12 09:00:00",
+    "total_cases_presumed_positive": "0",
+    "total_cases_confirmed_positive": "1",
     "total_deaths": "0"
   }
 }
