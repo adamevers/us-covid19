@@ -91,7 +91,7 @@ Updates at: N/A
 
 ### Louisiana
 Source: Louisiana Department of Health  
-Website: [http://ldh.la.gov/index.cfm/page/3835](http://ldh.la.gov/index.cfm/page/3835)  
+Website: [http://ldh.la.gov/Coronavirus/](http://ldh.la.gov/Coronavirus/)  
 Updates at: N/A  
 
 ### Maine
