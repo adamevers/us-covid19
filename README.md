@@ -50,7 +50,7 @@ Updates at: N/A
 
 ### Georgia
 Source: Georgia Department of Public Health  
-Website: https://dph.georgia.gov/novelcoronavirus  
+Website: https://dph.georgia.gov/georgia-department-public-health-covid-19-daily-status-report  
 Updates at: N/A    
 
 ### Hawaii
